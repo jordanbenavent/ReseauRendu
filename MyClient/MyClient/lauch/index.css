@@ -1,0 +1,21 @@
+﻿.titre {
+    width: 100%;
+    text-align: center;
+    font-size: 50px;
+}
+
+.content{
+    width: 100%
+}
+
+body {
+    width: 100%;
+    text-align: center;
+}
+
+#server, #age, #pertinente {
+    margin-top: 10%;
+    padding: 1%;
+    border-radius: 5px;
+    background-color: rgb(96, 96, 251);
+}

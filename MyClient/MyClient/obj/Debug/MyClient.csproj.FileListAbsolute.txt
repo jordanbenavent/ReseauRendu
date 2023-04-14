@@ -1,0 +1,8 @@
+D:\Bureau\SI_Nice\S8\Reseau_couche_basses\td\part3\Rendu\MyClient\MyClient\obj\Debug\MyClient.csproj.AssemblyReference.cache
+D:\Bureau\SI_Nice\S8\Reseau_couche_basses\td\part3\Rendu\MyClient\MyClient\obj\Debug\MyClient.csproj.SuggestedBindingRedirects.cache
+D:\Bureau\SI_Nice\S8\Reseau_couche_basses\td\part3\Rendu\MyClient\MyClient\obj\Debug\MyClient.csproj.CoreCompileInputs.cache
+D:\Bureau\SI_Nice\S8\Reseau_couche_basses\td\part3\Rendu\MyClient\MyClient\bin\Debug\MyClient.exe.config
+D:\Bureau\SI_Nice\S8\Reseau_couche_basses\td\part3\Rendu\MyClient\MyClient\bin\Debug\MyClient.exe
+D:\Bureau\SI_Nice\S8\Reseau_couche_basses\td\part3\Rendu\MyClient\MyClient\bin\Debug\MyClient.pdb
+D:\Bureau\SI_Nice\S8\Reseau_couche_basses\td\part3\Rendu\MyClient\MyClient\obj\Debug\MyClient.exe
+D:\Bureau\SI_Nice\S8\Reseau_couche_basses\td\part3\Rendu\MyClient\MyClient\obj\Debug\MyClient.pdb

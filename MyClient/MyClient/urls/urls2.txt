@@ -1,0 +1,10 @@
+﻿http://fr.wikipedia.org/wiki/Lyon
+http://fr.wikipedia.org/wiki/Chat
+http://fr.wikipedia.org/wiki/Chien
+http://fr.wikipedia.org/wiki/Loup
+http://fr.wikipedia.org/wiki/Tigre
+http://fr.wikipedia.org/wiki/Cheval
+http://fr.wikipedia.org/wiki/Java
+http://fr.wikipedia.org/wiki/Tour
+http://fr.wikipedia.org/wiki/Nice
+http://fr.wikipedia.org/wiki/Kiwi
