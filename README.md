@@ -1,18 +1,18 @@
 Analyse statistique de différents serveurs web
 *Lancement du projet*
 
-** Ouvrez la solution à l'aide de Visual Studio. **
+**Ouvrez la solution à l'aide de Visual Studio.**
     - Accédez au site en ouvrant votre navigateur avec l'URL : http://localhost:8080.
     - Cliquez sur un bouton pour voir les statistiques calculées correspondant aux exercices 1, 2 et 3.
     
     
-** Statistiques du bouton "Voir les statistiques des serveurs" **
+**Statistiques du bouton "Voir les statistiques des serveurs"**
 
   - Un lancement de requêtes correspondantes au fichier urls/urls1.txt sera effectué.
   - Un tableau s'affichera, indiquant :
-Les quatre serveurs les plus utilisés
-Le nombre d'utilisations
-Le pourcentage d'utilisation
+        * Les quatre serveurs les plus utilisés
+        * Le nombre d'utilisations
+        * Le pourcentage d'utilisation
 Statistiques du bouton "Voir les statistiques de l'âge des pages du Wikipedia"
 Un lancement de requêtes correspondantes au fichier urls/urls2.txt sera effectué. (Vous pouvez ajouter des liens, nous vous conseillons de rester sur des liens Wikipédia pour plus de cohérence.)
 Un tableau s'affichera, indiquant :
